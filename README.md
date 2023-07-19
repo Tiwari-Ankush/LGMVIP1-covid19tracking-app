@@ -5,6 +5,3 @@ This repository contains an Android app that allows users to track COVID-19 case
 
 
 
-
-https://github.com/CreativeAnkush/LGMVIP-ANDROID-TASK1/assets/92021625/9ee7e88c-eff9-434b-96cf-4d4d0b057d46
-
